@@ -14,6 +14,9 @@ This project demonstrates DHCP Snooping configuration in Cisco Packet Tracer.
 - DHCP Snooping enabled globally
 - Protection against DHCP Spoofing attacks
 
+## 📷 Topology
+![Topology](topology.png)
+
 ## 📂 Files Included
 - dhcp-snooping-lab.pkt
 
